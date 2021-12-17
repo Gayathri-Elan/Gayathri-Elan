@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Gayathri</h1>
 <h3 align="center">An ECE undergraduate passionate about coding!</h3>
 
-- 🌱 I’m currently learning **basic web development**
+- 🌱 I’m currently learning and honing my skills in **web development**
 
 - 📫 How to reach me **gayathrielan41@gmail.com**
 
