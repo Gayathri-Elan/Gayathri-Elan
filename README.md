@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Gayathri</h1>
+<h1 align="center">Hi👋, I'm Gayathri</h1>
 <h3 align="center">An ECE undergraduate passionate about coding!</h3>
 
 - 📫 How to reach me **gayathrielan41@gmail.com**
