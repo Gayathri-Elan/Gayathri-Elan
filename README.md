@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gayathri-e-7924b4222/" target="blank"><img align="center" src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)&logoColor=white" alt="gayathri-e-7924b4222/" height="30" width="90" /></a>
+<a href="https://linkedin.com/in/gayathri-e-7924b4222/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gayathri-e-7924b4222/" height="30" width="90" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
